@@ -1,18 +1,18 @@
 # Ginger Ale
-(Original Source)[http://www.simplyrecipes.com/recipes/homemade_ginger_ale/]
+[Original Source](http://www.simplyrecipes.com/recipes/homemade_ginger_ale/)
 
 ## Ingredients
 ### Ginger Water
-1 cup peeled, chopped ginger
-2 cups of water
+* 1 cup peeled, chopped ginger
+* 2 cups of water
 
 ### Simple Syrup
-1 cup sugar
-1 cup water
+* 1 cup sugar
+* 1 cup water
 
 ### Other
-Club Soda
-Lime Juice
+* Club Soda
+* Lime Juice
 
 ## Directions
 1. Bring 2 cups of water to a boil in a saucepan. Add ginger. Reduce heat to low and let ginger water simer for 5 minutes. Remove from heat and let sit for 20 minutes. Strain mash. Discard ginger pieces.
